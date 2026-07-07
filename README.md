@@ -20,17 +20,6 @@ Metodologia BEM: Aplicação do padrão de nomenclatura nas classes do CSS (ex: 
 
 Normalize.css: Utilizado para a padronização dos estilos entre diferentes navegadores.
 
-# Estrutura de Pastas
-
-A organização dos arquivos no repositório segue este formato:
-
-├── images/ # Arquivos de imagem
-├── styles/
-│ └── style.css # Código de estilos e layout do projeto
-├── vendor/
-│ └── normalize.css # Reset de estilos padrão do navegador
-└── index.html # Código HTML estrutural do site
-
 # Requisitos Implementados
 
 Breakpoints: Configuração de pontos de interrupção em 544px and 1024px para ajuste do layout. (Que foi dado previamente no roteiro)
