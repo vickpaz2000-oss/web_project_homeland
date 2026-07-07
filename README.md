@@ -24,14 +24,17 @@ Normalize.css: Utilizado para a padronização dos estilos entre diferentes nave
 
 A organização dos arquivos no repositório segue este formato:
 
-'''
 ├── images/ # Arquivos de imagem
+
 ├── styles/
+
 │ └── style.css # Código de estilos e layout do projeto
+
 ├── vendor/
+
 │ └── normalize.css # Reset de estilos padrão do navegador
+
 └── index.html # Código HTML estrutural do site
-'''
 
 # Requisitos Implementados
 
