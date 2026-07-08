@@ -1,0 +1,18 @@
+.footer__copyright {
+  margin-top: 92px;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .footer__copyright {
+    margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    margin-top: 64px;
+  }
+}
