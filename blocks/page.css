@@ -1,8 +1,10 @@
 .page {
   display: flex;
   align-items: center;
+  justify-content: center;
+  min-height: 100vh;
   flex-direction: column;
-  background-color: #2a2c2f;
+  background-color: hsl(216, 6%, 17%);
   color: #fff;
   max-width: 1600px;
   font-family: "inter", sans-serif;
