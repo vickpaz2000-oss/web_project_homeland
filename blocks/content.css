@@ -4,14 +4,14 @@
   align-items: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .content {
     max-width: 768px;
     width: 100%;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 554px) {
   .content {
     max-width: 320px;
     width: 100%;

@@ -5,13 +5,13 @@
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .footer__copyright {
     margin-top: 88px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 554px) {
   .footer__copyright {
     margin-top: 64px;
   }
