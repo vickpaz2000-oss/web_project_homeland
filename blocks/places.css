@@ -100,7 +100,7 @@
     max-width: 720px;
     width: 100%;
     display: grid;
-    grid-template-columns: 48% 52%;
+    grid-template-columns: 340px 1fr;
     grid-template-rows: auto 340px auto;
     gap: 48px 28px;
     margin: 88px 0 0 0;
